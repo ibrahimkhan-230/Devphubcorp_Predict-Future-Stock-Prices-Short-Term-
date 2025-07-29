@@ -1,9 +1,9 @@
 # Devphubcorp_Predict-Future-Stock-Prices-Short-Term-
-Objective:   
+# Objective:   
 Use historical stock data to predict the next day's closing price. 
-Dataset:   
+# Dataset:   
 Stock market data from Yahoo Finance (retrieved using the yfinance Python library)
-Skills:  
+# Skills:  
 ● Time series data handling 
 ● Regression modeling  
 ● Data fetching using APIs (yfinance) 
